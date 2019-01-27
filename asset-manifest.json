@@ -1,15 +1,15 @@
 {
-  "main.css": "/wa4-fearless-otter/me/static/css/main.7453fd25.chunk.css",
-  "main.js": "/wa4-fearless-otter/me/static/js/main.0a65892f.chunk.js",
-  "main.js.map": "/wa4-fearless-otter/me/static/js/main.0a65892f.chunk.js.map",
-  "static/css/1.628f4adf.chunk.css": "/wa4-fearless-otter/me/static/css/1.628f4adf.chunk.css",
-  "static/js/1.ca18f973.chunk.js": "/wa4-fearless-otter/me/static/js/1.ca18f973.chunk.js",
-  "static/js/1.ca18f973.chunk.js.map": "/wa4-fearless-otter/me/static/js/1.ca18f973.chunk.js.map",
-  "runtime~main.js": "/wa4-fearless-otter/me/static/js/runtime~main.185dd454.js",
-  "runtime~main.js.map": "/wa4-fearless-otter/me/static/js/runtime~main.185dd454.js.map",
-  "static/css/1.628f4adf.chunk.css.map": "/wa4-fearless-otter/me/static/css/1.628f4adf.chunk.css.map",
-  "static/css/main.7453fd25.chunk.css.map": "/wa4-fearless-otter/me/static/css/main.7453fd25.chunk.css.map",
-  "index.html": "/wa4-fearless-otter/me/index.html",
-  "precache-manifest.1a645d48fed85a0303d0bb64f7b523bc.js": "/wa4-fearless-otter/me/precache-manifest.1a645d48fed85a0303d0bb64f7b523bc.js",
-  "service-worker.js": "/wa4-fearless-otter/me/service-worker.js"
+  "main.css": "/me/static/css/main.7453fd25.chunk.css",
+  "main.js": "/me/static/js/main.8a4893b8.chunk.js",
+  "main.js.map": "/me/static/js/main.8a4893b8.chunk.js.map",
+  "static/css/1.628f4adf.chunk.css": "/me/static/css/1.628f4adf.chunk.css",
+  "static/js/1.04068685.chunk.js": "/me/static/js/1.04068685.chunk.js",
+  "static/js/1.04068685.chunk.js.map": "/me/static/js/1.04068685.chunk.js.map",
+  "runtime~main.js": "/me/static/js/runtime~main.f4ae667e.js",
+  "runtime~main.js.map": "/me/static/js/runtime~main.f4ae667e.js.map",
+  "static/css/main.7453fd25.chunk.css.map": "/me/static/css/main.7453fd25.chunk.css.map",
+  "static/css/1.628f4adf.chunk.css.map": "/me/static/css/1.628f4adf.chunk.css.map",
+  "index.html": "/me/index.html",
+  "precache-manifest.5a229e63f25ebcba0717370300bc64ff.js": "/me/precache-manifest.5a229e63f25ebcba0717370300bc64ff.js",
+  "service-worker.js": "/me/service-worker.js"
 }
